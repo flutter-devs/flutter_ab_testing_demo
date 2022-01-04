@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lenovo/projects/ab_testing/flutter_ab_testing_demo/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/lenovo/.gradle/caches/transforms-2/files-2.1/d60c7afd405db9ce9ce5ee20c1c1d8f5/appcompat-1.2.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

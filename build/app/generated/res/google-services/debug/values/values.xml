@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">868688578524-lim7m20l6t1m9086ouhfs273dhag4c7g.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">868688578524</string>
+    <string name="google_api_key" translatable="false">AIzaSyAjqZsb9dOmcXhwGE3_hchKDoZ3qtWGkyA</string>
+    <string name="google_app_id" translatable="false">1:868688578524:android:c970a7d9617a152e2df119</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAjqZsb9dOmcXhwGE3_hchKDoZ3qtWGkyA</string>
+    <string name="google_storage_bucket" translatable="false">abtesting-72b06.appspot.com</string>
+    <string name="project_id" translatable="false">abtesting-72b06</string>
+</resources>
